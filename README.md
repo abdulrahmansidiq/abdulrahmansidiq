@@ -46,18 +46,5 @@
     <img src="https://img.shields.io/badge/-laravel-gray?style=for-the-badge&logo=laravel" alt="laravel"/>
 </p>
 
-<p>
-  Tools
-</p>
-
-<p>
-    <img src="https://img.shields.io/badge/-visualstudio-gray?style=for-the-badge&logo=visualstudio" alt="visualstudio"/>
-    <img src="https://img.shields.io/badge/-figma-gray?style=for-the-badge&logo=figma" alt="figma"/>
-    <img src="https://img.shields.io/badge/-adobephotoshop-gray?style=for-the-badge&logo=adobephotoshop" alt="adobephotoshop"/>
-    <img src="https://img.shields.io/badge/-adobeillustrator-gray?style=for-the-badge&logo=adobeillustrator" alt="adobeillustrator"/>
-    <img src="https://img.shields.io/badge/-github-gray?style=for-the-badge&logo=github" alt="github"/>
-    <img src="https://img.shields.io/badge/-git-gray?style=for-the-badge&logo=git" alt="git"/>
-</p>
-
 <a href="https://github.com/abdulrahmansidiq?tab=repositories" title="Abdul Rahman Sidiq"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmansidiq&bg_color=151515&text_color=9f9f9f&title_color=fff&layout=compact" /></a>
 <a href="https://github.com/abdulrahmansidiq" title="Abdul Rahman Sidiq"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulrahmansidiq&show_icons=true&theme=gradient&title_color=fff&icon_color=5C9FF0&text_color=9f9f9f&bg_color=151515" /></a>
