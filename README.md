@@ -3,7 +3,8 @@
     <p>
         Hi! I'm Abdul Rahman Sidiq, an IT Enthusiast 🚀 from Indonesia.
     </p>
-    <p>Hello 👋, I'm a web developer and graphic designer. Recently focused on Frontend Web Development using some javascript frameworks like Vue.Js and PHP Framework like Codeigniter and Laravel , attracted to clean and simple designs with Tailwind and Bootstrap.</p>
+    <p>Hello 👋, I'm a Full Stack UI/UX Developer who loves to combine design creativity with coding logic. From wireframes in Miro and Figma to full-featured apps built with React.js or Vue.js, and PHP frameworks like CodeIgniter and Laravel, I focus on creating simple, clean, and engaging user experiences using Tailwind CSS and Bootstrap. I believe good design is not just about how it looks, but also how the technology works seamlessly behind the scenes.
+</p>
     <br/>
     <p>
         <img src="https://komarev.com/ghpvc/?username=abdulrahmansidiq&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul Rahman Sidiq" />
