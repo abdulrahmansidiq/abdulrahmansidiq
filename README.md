@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/-typescript-gray?style=for-the-badge&logo=typescript" alt="typescript"/>
     <img src="https://img.shields.io/badge/-vue.js-gray?style=for-the-badge&logo=vue.js" alt="vue"/>
     <img src="https://img.shields.io/badge/-nuxt-gray?style=for-the-badge&logo=nuxt" alt="nuxt"/>
-    <img src="https://img.shields.io/badge/-reactjs-gray?style=for-the-badge&logo=reactjs" alt="react"/>
+    <img src="https://img.shields.io/badge/-react-gray?style=for-the-badge&logo=react" alt="react"/>
     <img src="https://img.shields.io/badge/-next-gray?style=for-the-badge&logo=next.js" alt="next"/>
     <img src="https://img.shields.io/badge/-codeigniter-gray?style=for-the-badge&logo=codeigniter" alt="codeigniter"/>
     <img src="https://img.shields.io/badge/-laravel-gray?style=for-the-badge&logo=laravel" alt="laravel"/>
