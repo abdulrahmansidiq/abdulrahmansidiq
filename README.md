@@ -43,6 +43,8 @@
     <img src="https://img.shields.io/badge/-bootstrap-gray?style=for-the-badge&logo=bootstrap" alt="bootstrap"/>
     <img src="https://img.shields.io/badge/-vue.js-gray?style=for-the-badge&logo=vue.js" alt="vue"/>
     <img src="https://img.shields.io/badge/-nuxt-gray?style=for-the-badge&logo=nuxt" alt="nuxt"/>
+    <img src="https://img.shields.io/badge/-nuxt-gray?style=for-the-badge&logo=react.js" alt="react"/>
+    <img src="https://img.shields.io/badge/-nuxt-gray?style=for-the-badge&logo=next.js" alt="next"/>
     <img src="https://img.shields.io/badge/-codeigniter-gray?style=for-the-badge&logo=codeigniter" alt="codeigniter"/>
     <img src="https://img.shields.io/badge/-laravel-gray?style=for-the-badge&logo=laravel" alt="laravel"/>
 </p>
