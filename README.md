@@ -3,7 +3,7 @@
     <p>
         Hello 👋,  I'm Abdul Rahman Sidiq, an IT Enthusiast 🚀 from Indonesia.
     </p>
-    <p>I'm a Full Stack UI/UX Developer who loves to combine design creativity with coding logic. From wireframes in Miro and Figma to full-featured apps built with React.js or Vue.js, and PHP frameworks like CodeIgniter and Laravel, I focus on creating simple, clean, and engaging user experiences using Tailwind CSS and Bootstrap. I believe good design is not just about how it looks, but also how the technology works seamlessly behind the scenes.
+    <p>I'm a Full Stack UI/UX Developer who loves to combine design creativity with coding logic. From wireframes in Miro and Figma to full-featured apps built with React.js, and PHP frameworks like CodeIgniter and Laravel, I focus on creating simple, clean, and engaging user experiences using Tailwind CSS and Bootstrap. I believe good design is not just about how it looks, but also how the technology works seamlessly behind the scenes.
 </p>
     <br/>
     <p>
