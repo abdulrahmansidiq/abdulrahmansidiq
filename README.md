@@ -16,7 +16,7 @@
     </p>
 
 <p>
-  Programming Language
+  Tech Stack
 </p>
 <p>
         
@@ -33,21 +33,23 @@
 <img src="https://img.shields.io/badge/-mysql-gray?style=for-the-badge&logo=mysql" alt="mysql"/>
 
 <img src="https://img.shields.io/badge/-PostgresQL-gray?style=for-the-badge&logo=postgresql" alt="PostgresQL"/>
+
+<img src="https://img.shields.io/badge/-MongoDB-gray?style=for-the-badge&logo=mongodb" alt="MongoDB"/>
+
+<img src="https://img.shields.io/badge/-TailwindCSS-gray?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS"/>
+
+<img src="https://img.shields.io/badge/-bootstrap-gray?style=for-the-badge&logo=bootstrap" alt="bootstrap"/>
+
+<img src="https://img.shields.io/badge/-react-gray?style=for-the-badge&logo=react" alt="react"/>
+
+<img src="https://img.shields.io/badge/-next-gray?style=for-the-badge&logo=next.js" alt="next"/>
+
+<img src="https://img.shields.io/badge/-codeigniter-gray?style=for-the-badge&logo=codeigniter" alt="codeigniter"/>
+
+<img src="https://img.shields.io/badge/-laravel-gray?style=for-the-badge&logo=laravel" alt="laravel"/>
         
 </p>
 
-<p>
-  Framework
-</p>
-
-<p>
-    <img src="https://img.shields.io/badge/-TailwindCSS-gray?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS"/>
-    <img src="https://img.shields.io/badge/-bootstrap-gray?style=for-the-badge&logo=bootstrap" alt="bootstrap"/>
-    <img src="https://img.shields.io/badge/-react-gray?style=for-the-badge&logo=react" alt="react"/>
-    <img src="https://img.shields.io/badge/-next-gray?style=for-the-badge&logo=next.js" alt="next"/>
-    <img src="https://img.shields.io/badge/-codeigniter-gray?style=for-the-badge&logo=codeigniter" alt="codeigniter"/>
-    <img src="https://img.shields.io/badge/-laravel-gray?style=for-the-badge&logo=laravel" alt="laravel"/>
-</p>
 
 <a href="https://github.com/abdulrahmansidiq?tab=repositories" title="Abdul Rahman Sidiq"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmansidiq&bg_color=151515&text_color=9f9f9f&title_color=fff&layout=compact" /></a>
 <a href="https://github.com/abdulrahmansidiq" title="Abdul Rahman Sidiq"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulrahmansidiq&show_icons=true&theme=gradient&title_color=fff&icon_color=5C9FF0&text_color=9f9f9f&bg_color=151515" /></a>
