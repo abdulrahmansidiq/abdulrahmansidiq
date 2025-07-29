@@ -22,7 +22,7 @@
         
 <img src="https://img.shields.io/badge/-html-gray?style=for-the-badge&logo=html5" alt="HTML"/>
 
-<img src="https://img.shields.io/badge/-css-gray?style=for-the-badge&logo=css3" alt="CSS"/>
+<img src="https://img.shields.io/badge/-css-gray?style=for-the-badge&logo=css" alt="CSS"/>
 
 <img src="https://img.shields.io/badge/-JavaScript-gray?style=for-the-badge&logo=javascript" alt="JavaScript"/>
 
@@ -35,6 +35,12 @@
 <img src="https://img.shields.io/badge/-PostgresQL-gray?style=for-the-badge&logo=postgresql" alt="PostgresQL"/>
 
 <img src="https://img.shields.io/badge/-MongoDB-gray?style=for-the-badge&logo=mongodb" alt="MongoDB"/>
+
+<img src="https://img.shields.io/badge/-cloudflare-gray?style=for-the-badge&logo=cloudflare" alt="CloudFlare"/>
+
+<img src="https://img.shields.io/badge/-vercel-gray?style=for-the-badge&logo=vercel" alt="Vercel"/>
+
+<img src="https://img.shields.io/badge/-netlify-gray?style=for-the-badge&logo=netlify" alt="Netlify"/>
 
 <img src="https://img.shields.io/badge/-TailwindCSS-gray?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS"/>
 
