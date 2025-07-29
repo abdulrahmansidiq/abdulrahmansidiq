@@ -34,13 +34,19 @@
 
 <img src="https://img.shields.io/badge/-bootstrap-gray?style=for-the-badge&logo=bootstrap" alt="bootstrap"/>
 
+<img src="https://img.shields.io/badge/-chart-gray?style=for-the-badge&logo=chart.js" alt="Chart"/>
+
 <img src="https://img.shields.io/badge/-react-gray?style=for-the-badge&logo=react" alt="react"/>
 
 <img src="https://img.shields.io/badge/-next-gray?style=for-the-badge&logo=next.js" alt="next"/>
 
+<img src="https://img.shields.io/badge/-reactrouter-gray?style=for-the-badge&logo=reactrouter" alt="react router"/>
+
 <img src="https://img.shields.io/badge/-redux-gray?style=for-the-badge&logo=redux" alt="redux"/>
 
 <img src="https://img.shields.io/badge/-node-gray?style=for-the-badge&logo=node.js" alt="node"/>
+
+<img src="https://img.shields.io/badge/-express-gray?style=for-the-badge&logo=express.js" alt="Express"/>
 
 <img src="https://img.shields.io/badge/-codeigniter-gray?style=for-the-badge&logo=codeigniter" alt="codeigniter"/>
 
