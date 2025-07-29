@@ -34,13 +34,19 @@
 
 <img src="https://img.shields.io/badge/-bootstrap-gray?style=for-the-badge&logo=bootstrap" alt="bootstrap"/>
 
+<img src="https://img.shields.io/badge/-sass-gray?style=for-the-badge&logo=sass" alt="sass"/>
+
 <img src="https://img.shields.io/badge/-chart-gray?style=for-the-badge&logo=chart.js" alt="Chart"/>
 
 <img src="https://img.shields.io/badge/-react-gray?style=for-the-badge&logo=react" alt="react"/>
 
+<img src="https://img.shields.io/badge/-vite-gray?style=for-the-badge&logo=vite" alt="vite"/>
+
 <img src="https://img.shields.io/badge/-next-gray?style=for-the-badge&logo=next.js" alt="next"/>
 
-<img src="https://img.shields.io/badge/-reactrouter-gray?style=for-the-badge&logo=react-router" alt="react router"/>
+<img src="https://img.shields.io/badge/-reactrouter-gray?style=for-the-badge&logo=reactrouter" alt="react router"/>
+
+<img src="https://img.shields.io/badge/-reacthookform-gray?style=for-the-badge&logo=reacthookform" alt="react hook form"/>
 
 <img src="https://img.shields.io/badge/-redux-gray?style=for-the-badge&logo=redux" alt="redux"/>
 
@@ -54,15 +60,29 @@
 
 <img src="https://img.shields.io/badge/-mysql-gray?style=for-the-badge&logo=mysql" alt="mysql"/>
 
+<img src="https://img.shields.io/badge/-MariaDB-gray?style=for-the-badge&logo=MariaDB" alt="MariaDB"/>
+
 <img src="https://img.shields.io/badge/-PostgresQL-gray?style=for-the-badge&logo=postgresql" alt="PostgresQL"/>
 
 <img src="https://img.shields.io/badge/-MongoDB-gray?style=for-the-badge&logo=mongodb" alt="MongoDB"/>
 
 <img src="https://img.shields.io/badge/-cloudflare-gray?style=for-the-badge&logo=cloudflare" alt="CloudFlare"/>
 
+<img src="https://img.shields.io/badge/-firebase-gray?style=for-the-badge&logo=firebase" alt="firebase"/>
+
 <img src="https://img.shields.io/badge/-vercel-gray?style=for-the-badge&logo=vercel" alt="Vercel"/>
 
 <img src="https://img.shields.io/badge/-netlify-gray?style=for-the-badge&logo=netlify" alt="Netlify"/>
+
+<img src="https://img.shields.io/badge/-git-gray?style=for-the-badge&logo=git" alt="git"/>
+
+<img src="https://img.shields.io/badge/-github-gray?style=for-the-badge&logo=github" alt="github"/>
+
+<img src="https://img.shields.io/badge/-githubactions-gray?style=for-the-badge&logo=githubactions" alt="githubactions"/>
+
+<img src="https://img.shields.io/badge/-docker-gray?style=for-the-badge&logo=docker" alt="docker"/>
+
+<img src="https://img.shields.io/badge/-figma-gray?style=for-the-badge&logo=figma" alt="figma"/>
         
 </p>
 
