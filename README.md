@@ -40,7 +40,7 @@
 
 <img src="https://img.shields.io/badge/-next-gray?style=for-the-badge&logo=next.js" alt="next"/>
 
-<img src="https://img.shields.io/badge/-reactrouter-gray?style=for-the-badge&logo=reactrouter" alt="react router"/>
+<img src="https://img.shields.io/badge/-reactrouter-gray?style=for-the-badge&logo=react-router" alt="react router"/>
 
 <img src="https://img.shields.io/badge/-redux-gray?style=for-the-badge&logo=redux" alt="redux"/>
 
