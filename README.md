@@ -38,6 +38,10 @@
 
 <img src="https://img.shields.io/badge/-next-gray?style=for-the-badge&logo=next.js" alt="next"/>
 
+<img src="https://img.shields.io/badge/-redux-gray?style=for-the-badge&logo=redux" alt="redux"/>
+
+<img src="https://img.shields.io/badge/-node-gray?style=for-the-badge&logo=node.js" alt="node"/>
+
 <img src="https://img.shields.io/badge/-codeigniter-gray?style=for-the-badge&logo=codeigniter" alt="codeigniter"/>
 
 <img src="https://img.shields.io/badge/-laravel-gray?style=for-the-badge&logo=laravel" alt="laravel"/>
