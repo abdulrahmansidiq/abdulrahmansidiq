@@ -30,18 +30,6 @@
 
 <img src="https://img.shields.io/badge/-php-gray?style=for-the-badge&logo=php" alt="PHP"/>
 
-<img src="https://img.shields.io/badge/-mysql-gray?style=for-the-badge&logo=mysql" alt="mysql"/>
-
-<img src="https://img.shields.io/badge/-PostgresQL-gray?style=for-the-badge&logo=postgresql" alt="PostgresQL"/>
-
-<img src="https://img.shields.io/badge/-MongoDB-gray?style=for-the-badge&logo=mongodb" alt="MongoDB"/>
-
-<img src="https://img.shields.io/badge/-cloudflare-gray?style=for-the-badge&logo=cloudflare" alt="CloudFlare"/>
-
-<img src="https://img.shields.io/badge/-vercel-gray?style=for-the-badge&logo=vercel" alt="Vercel"/>
-
-<img src="https://img.shields.io/badge/-netlify-gray?style=for-the-badge&logo=netlify" alt="Netlify"/>
-
 <img src="https://img.shields.io/badge/-TailwindCSS-gray?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS"/>
 
 <img src="https://img.shields.io/badge/-bootstrap-gray?style=for-the-badge&logo=bootstrap" alt="bootstrap"/>
@@ -53,6 +41,18 @@
 <img src="https://img.shields.io/badge/-codeigniter-gray?style=for-the-badge&logo=codeigniter" alt="codeigniter"/>
 
 <img src="https://img.shields.io/badge/-laravel-gray?style=for-the-badge&logo=laravel" alt="laravel"/>
+
+<img src="https://img.shields.io/badge/-mysql-gray?style=for-the-badge&logo=mysql" alt="mysql"/>
+
+<img src="https://img.shields.io/badge/-PostgresQL-gray?style=for-the-badge&logo=postgresql" alt="PostgresQL"/>
+
+<img src="https://img.shields.io/badge/-MongoDB-gray?style=for-the-badge&logo=mongodb" alt="MongoDB"/>
+
+<img src="https://img.shields.io/badge/-cloudflare-gray?style=for-the-badge&logo=cloudflare" alt="CloudFlare"/>
+
+<img src="https://img.shields.io/badge/-vercel-gray?style=for-the-badge&logo=vercel" alt="Vercel"/>
+
+<img src="https://img.shields.io/badge/-netlify-gray?style=for-the-badge&logo=netlify" alt="Netlify"/>
         
 </p>
 
