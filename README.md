@@ -52,7 +52,7 @@
 
 <img src="https://img.shields.io/badge/-node-gray?style=for-the-badge&logo=node.js" alt="node"/>
 
-<img src="https://img.shields.io/badge/-express-gray?style=for-the-badge&logo=express.js" alt="Express"/>
+<img src="https://img.shields.io/badge/-expressjs-gray?style=for-the-badge&logo=express.js" alt="Express"/>
 
 <img src="https://img.shields.io/badge/-codeigniter-gray?style=for-the-badge&logo=codeigniter" alt="codeigniter"/>
 
