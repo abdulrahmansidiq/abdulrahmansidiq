@@ -88,4 +88,4 @@
 
 
 <a href="https://github.com/abdulrahmansidiq?tab=repositories" title="Abdul Rahman Sidiq"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmansidiq&bg_color=151515&text_color=9f9f9f&title_color=fff&layout=compact" /></a>
-<a href="https://github.com/abdulrahmansidiq" title="Abdul Rahman Sidiq"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulrahmansidiq&show_icons=true&theme=gradient&title_color=fff&icon_color=5C9FF0&text_color=9f9f9f&bg_color=151515" /></a>
+<a href="https://github.com/abdulrahmansidiq" title="Abdul Rahman Sidiq"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulrahmansidiq&show_icons=true&theme=gradient&title_color=fff&icon_color=5C9FF0&text_color=9f9f9f&bg_color=151515" /</a>
